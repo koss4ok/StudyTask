@@ -1,0 +1,15 @@
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

@@ -1,0 +1,115 @@
+D:\Education\ИСРПО\lr10\10A\10A\bin\Debug\10A.exe.config
+D:\Education\ИСРПО\lr10\10A\10A\bin\Debug\10A.exe
+D:\Education\ИСРПО\lr10\10A\10A\bin\Debug\10A.pdb
+D:\Education\ИСРПО\lr10\10A\10A\obj\Debug\10A.csprojResolveAssemblyReference.cache
+D:\Education\ИСРПО\lr10\10A\10A\obj\Debug\MainWindow.g.cs
+D:\Education\ИСРПО\lr10\10A\10A\obj\Debug\App.g.cs
+D:\Education\ИСРПО\lr10\10A\10A\obj\Debug\10A_MarkupCompile.cache
+D:\Education\ИСРПО\lr10\10A\10A\obj\Debug\10A_MarkupCompile.lref
+D:\Education\ИСРПО\lr10\10A\10A\obj\Debug\MainWindow.baml
+D:\Education\ИСРПО\lr10\10A\10A\obj\Debug\10A.g.resources
+D:\Education\ИСРПО\lr10\10A\10A\obj\Debug\_10A.Properties.Resources.resources
+D:\Education\ИСРПО\lr10\10A\10A\obj\Debug\10A.csproj.GenerateResource.Cache
+D:\Education\ИСРПО\lr10\10A\10A\obj\Debug\10A.csproj.CoreCompileInputs.cache
+D:\Education\ИСРПО\lr10\10A\10A\obj\Debug\10A.exe
+D:\Education\ИСРПО\lr10\10A\10A\obj\Debug\10A.pdb
+D:\ИСРПО\lr10\10A\10A\bin\Debug\10A.exe.config
+D:\ИСРПО\lr10\10A\10A\obj\Debug\10A.exe
+D:\ИСРПО\lr10\10A\10A\obj\Debug\10A.pdb
+D:\ИСРПО\lr10\10A\10A\bin\Debug\10A.exe
+D:\ИСРПО\lr10\10A\10A\bin\Debug\10A.pdb
+D:\ИСРПО\lr10\10A\10A\obj\Debug\10A.csprojResolveAssemblyReference.cache
+D:\ИСРПО\lr10\10A\10A\obj\Debug\MainWindow.g.cs
+D:\ИСРПО\lr10\10A\10A\obj\Debug\App.g.cs
+D:\ИСРПО\lr10\10A\10A\obj\Debug\10A_MarkupCompile.cache
+D:\ИСРПО\lr10\10A\10A\obj\Debug\10A_MarkupCompile.lref
+D:\ИСРПО\lr10\10A\10A\obj\Debug\MainWindow.baml
+D:\ИСРПО\lr10\10A\10A\obj\Debug\10A.g.resources
+D:\ИСРПО\lr10\10A\10A\obj\Debug\_10A.Properties.Resources.resources
+D:\ИСРПО\lr10\10A\10A\obj\Debug\10A.csproj.GenerateResource.Cache
+H:\ИСР ПО\10A\10A\bin\Debug\10A.exe.config
+H:\ИСР ПО\10A\10A\obj\Debug\10A.exe
+H:\ИСР ПО\10A\10A\obj\Debug\10A.pdb
+H:\ИСР ПО\10A\10A\bin\Debug\10A.exe
+H:\ИСР ПО\10A\10A\bin\Debug\10A.pdb
+H:\ИСР ПО\10A\10A\obj\Debug\10A.csprojResolveAssemblyReference.cache
+H:\ИСР ПО\10A\10A\obj\Debug\MainWindow.g.cs
+H:\ИСР ПО\10A\10A\obj\Debug\App.g.cs
+H:\ИСР ПО\10A\10A\obj\Debug\10A_MarkupCompile.cache
+H:\ИСР ПО\10A\10A\obj\Debug\10A_MarkupCompile.lref
+H:\ИСР ПО\10A\10A\obj\Debug\MainWindow.baml
+H:\ИСР ПО\10A\10A\obj\Debug\10A.g.resources
+H:\ИСР ПО\10A\10A\obj\Debug\_10A.Properties.Resources.resources
+H:\ИСР ПО\10A\10A\obj\Debug\10A.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Рабочий стол\испро 42 гр\10A\10A\bin\Debug\10A.exe.config
+\\vmware-host\Shared Folders\Рабочий стол\испро 42 гр\10A\10A\bin\Debug\10A.exe
+\\vmware-host\Shared Folders\Рабочий стол\испро 42 гр\10A\10A\bin\Debug\10A.pdb
+\\vmware-host\Shared Folders\Рабочий стол\испро 42 гр\10A\10A\obj\Debug\10A.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Рабочий стол\испро 42 гр\10A\10A\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\Рабочий стол\испро 42 гр\10A\10A\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\Рабочий стол\испро 42 гр\10A\10A\obj\Debug\10A_MarkupCompile.cache
+\\vmware-host\Shared Folders\Рабочий стол\испро 42 гр\10A\10A\obj\Debug\10A_MarkupCompile.lref
+\\vmware-host\Shared Folders\Рабочий стол\испро 42 гр\10A\10A\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\Рабочий стол\испро 42 гр\10A\10A\obj\Debug\10A.g.resources
+\\vmware-host\Shared Folders\Рабочий стол\испро 42 гр\10A\10A\obj\Debug\_10A.Properties.Resources.resources
+\\vmware-host\Shared Folders\Рабочий стол\испро 42 гр\10A\10A\obj\Debug\10A.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Рабочий стол\испро 42 гр\10A\10A\obj\Debug\10A.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Рабочий стол\испро 42 гр\10A\10A\obj\Debug\10A.exe
+\\vmware-host\Shared Folders\Рабочий стол\испро 42 гр\10A\10A\obj\Debug\10A.pdb
+C:\Users\User\Desktop\10A\10A\bin\Debug\10A.exe.config
+C:\Users\User\Desktop\10A\10A\obj\Debug\10A.exe
+C:\Users\User\Desktop\10A\10A\obj\Debug\10A.pdb
+C:\Users\User\Desktop\10A\10A\bin\Debug\10A.exe
+C:\Users\User\Desktop\10A\10A\bin\Debug\10A.pdb
+C:\Users\User\Desktop\10A\10A\obj\Debug\10A.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\10A\10A\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\10A\10A\obj\Debug\App.g.cs
+C:\Users\User\Desktop\10A\10A\obj\Debug\10A_MarkupCompile.cache
+C:\Users\User\Desktop\10A\10A\obj\Debug\10A_MarkupCompile.lref
+C:\Users\User\Desktop\10A\10A\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\10A\10A\obj\Debug\10A.g.resources
+C:\Users\User\Desktop\10A\10A\obj\Debug\_10A.Properties.Resources.resources
+C:\Users\User\Desktop\10A\10A\obj\Debug\10A.csproj.GenerateResource.Cache
+C:\Users\Kamila\Desktop\ИСРПО\10A\10A\10A\bin\Debug\10A.exe.config
+C:\Users\Kamila\Desktop\ИСРПО\10A\10A\10A\obj\Debug\10A.exe
+C:\Users\Kamila\Desktop\ИСРПО\10A\10A\10A\obj\Debug\10A.pdb
+C:\Users\Kamila\Desktop\ИСРПО\10A\10A\10A\bin\Debug\10A.exe
+C:\Users\Kamila\Desktop\ИСРПО\10A\10A\10A\bin\Debug\10A.pdb
+C:\Users\Kamila\Desktop\ИСРПО\10A\10A\10A\obj\Debug\10A.csprojResolveAssemblyReference.cache
+C:\Users\Kamila\Desktop\ИСРПО\10A\10A\10A\obj\Debug\MainWindow.g.cs
+C:\Users\Kamila\Desktop\ИСРПО\10A\10A\10A\obj\Debug\App.g.cs
+C:\Users\Kamila\Desktop\ИСРПО\10A\10A\10A\obj\Debug\10A_MarkupCompile.cache
+C:\Users\Kamila\Desktop\ИСРПО\10A\10A\10A\obj\Debug\10A_MarkupCompile.lref
+C:\Users\Kamila\Desktop\ИСРПО\10A\10A\10A\obj\Debug\MainWindow.baml
+C:\Users\Kamila\Desktop\ИСРПО\10A\10A\10A\obj\Debug\10A.g.resources
+C:\Users\Kamila\Desktop\ИСРПО\10A\10A\10A\obj\Debug\_10A.Properties.Resources.resources
+C:\Users\Kamila\Desktop\ИСРПО\10A\10A\10A\obj\Debug\10A.csproj.GenerateResource.Cache
+C:\Users\koben\Desktop\10\10A\10A\10A\bin\Debug\10A.exe.config
+C:\Users\koben\Desktop\10\10A\10A\10A\obj\Debug\10A.exe
+C:\Users\koben\Desktop\10\10A\10A\10A\obj\Debug\10A.pdb
+C:\Users\koben\Desktop\10\10A\10A\10A\bin\Debug\10A.exe
+C:\Users\koben\Desktop\10\10A\10A\10A\bin\Debug\10A.pdb
+C:\Users\koben\Desktop\10\10A\10A\10A\obj\Debug\10A.csprojResolveAssemblyReference.cache
+C:\Users\koben\Desktop\10\10A\10A\10A\obj\Debug\MainWindow.g.cs
+C:\Users\koben\Desktop\10\10A\10A\10A\obj\Debug\App.g.cs
+C:\Users\koben\Desktop\10\10A\10A\10A\obj\Debug\10A_MarkupCompile.cache
+C:\Users\koben\Desktop\10\10A\10A\10A\obj\Debug\10A_MarkupCompile.lref
+C:\Users\koben\Desktop\10\10A\10A\10A\obj\Debug\MainWindow.baml
+C:\Users\koben\Desktop\10\10A\10A\10A\obj\Debug\10A.g.resources
+C:\Users\koben\Desktop\10\10A\10A\10A\obj\Debug\_10A.Properties.Resources.resources
+C:\Users\koben\Desktop\10\10A\10A\10A\obj\Debug\10A.csproj.GenerateResource.Cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10A\10A\10A\bin\Debug\10A.exe.config
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10A\10A\10A\bin\Debug\10A.exe
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10A\10A\10A\bin\Debug\10A.pdb
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10A\10A\10A\obj\Debug\10A.csprojAssemblyReference.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10A\10A\10A\obj\Debug\MainWindow.g.cs
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10A\10A\10A\obj\Debug\App.g.cs
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10A\10A\10A\obj\Debug\10A_MarkupCompile.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10A\10A\10A\obj\Debug\10A_MarkupCompile.lref
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10A\10A\10A\obj\Debug\MainWindow.baml
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10A\10A\10A\obj\Debug\10A.g.resources
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10A\10A\10A\obj\Debug\_10A.Properties.Resources.resources
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10A\10A\10A\obj\Debug\10A.csproj.GenerateResource.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10A\10A\10A\obj\Debug\10A.csproj.CoreCompileInputs.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10A\10A\10A\obj\Debug\10A.exe
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10A\10A\10A\obj\Debug\10A.pdb

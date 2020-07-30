@@ -1,0 +1,29 @@
+D:\VisualStudio\source\repos\Lab8B\Lab8B\bin\Debug\Lab8B.exe.config
+D:\VisualStudio\source\repos\Lab8B\Lab8B\bin\Debug\Lab8B.exe
+D:\VisualStudio\source\repos\Lab8B\Lab8B\bin\Debug\Lab8B.pdb
+D:\VisualStudio\source\repos\Lab8B\Lab8B\obj\Debug\Lab8B.csprojAssemblyReference.cache
+D:\VisualStudio\source\repos\Lab8B\Lab8B\obj\Debug\MainWindow.g.cs
+D:\VisualStudio\source\repos\Lab8B\Lab8B\obj\Debug\App.g.cs
+D:\VisualStudio\source\repos\Lab8B\Lab8B\obj\Debug\Lab8B_MarkupCompile.cache
+D:\VisualStudio\source\repos\Lab8B\Lab8B\obj\Debug\Lab8B_MarkupCompile.lref
+D:\VisualStudio\source\repos\Lab8B\Lab8B\obj\Debug\MainWindow.baml
+D:\VisualStudio\source\repos\Lab8B\Lab8B\obj\Debug\Lab8B.g.resources
+D:\VisualStudio\source\repos\Lab8B\Lab8B\obj\Debug\Lab8B.Properties.Resources.resources
+D:\VisualStudio\source\repos\Lab8B\Lab8B\obj\Debug\Lab8B.csproj.GenerateResource.cache
+D:\VisualStudio\source\repos\Lab8B\Lab8B\obj\Debug\Lab8B.csproj.CoreCompileInputs.cache
+D:\VisualStudio\source\repos\Lab8B\Lab8B\obj\Debug\Lab8B.exe
+D:\VisualStudio\source\repos\Lab8B\Lab8B\obj\Debug\Lab8B.pdb
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\Lab8B\Lab8B\bin\Debug\Lab8B.exe.config
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\Lab8B\Lab8B\bin\Debug\Lab8B.exe
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\Lab8B\Lab8B\bin\Debug\Lab8B.pdb
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\Lab8B\Lab8B\obj\Debug\Lab8B.csprojAssemblyReference.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\Lab8B\Lab8B\obj\Debug\MainWindow.g.cs
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\Lab8B\Lab8B\obj\Debug\App.g.cs
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\Lab8B\Lab8B\obj\Debug\Lab8B_MarkupCompile.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\Lab8B\Lab8B\obj\Debug\MainWindow.baml
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\Lab8B\Lab8B\obj\Debug\Lab8B.g.resources
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\Lab8B\Lab8B\obj\Debug\Lab8B.Properties.Resources.resources
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\Lab8B\Lab8B\obj\Debug\Lab8B.csproj.GenerateResource.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\Lab8B\Lab8B\obj\Debug\Lab8B.csproj.CoreCompileInputs.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\Lab8B\Lab8B\obj\Debug\Lab8B.exe
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\Lab8B\Lab8B\obj\Debug\Lab8B.pdb

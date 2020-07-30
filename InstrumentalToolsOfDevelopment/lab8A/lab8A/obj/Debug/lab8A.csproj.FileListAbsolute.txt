@@ -1,0 +1,44 @@
+D:\VisualStudio\source\repos\lab8A\lab8A\bin\Debug\lab8A.exe.config
+D:\VisualStudio\source\repos\lab8A\lab8A\bin\Debug\lab8A.exe
+D:\VisualStudio\source\repos\lab8A\lab8A\bin\Debug\lab8A.pdb
+D:\VisualStudio\source\repos\lab8A\lab8A\obj\Debug\lab8A.csprojAssemblyReference.cache
+D:\VisualStudio\source\repos\lab8A\lab8A\obj\Debug\MainWindow.g.cs
+D:\VisualStudio\source\repos\lab8A\lab8A\obj\Debug\App.g.cs
+D:\VisualStudio\source\repos\lab8A\lab8A\obj\Debug\lab8A_MarkupCompile.cache
+D:\VisualStudio\source\repos\lab8A\lab8A\obj\Debug\lab8A_MarkupCompile.lref
+D:\VisualStudio\source\repos\lab8A\lab8A\obj\Debug\MainWindow.baml
+D:\VisualStudio\source\repos\lab8A\lab8A\obj\Debug\lab8A.g.resources
+D:\VisualStudio\source\repos\lab8A\lab8A\obj\Debug\lab8A.Properties.Resources.resources
+D:\VisualStudio\source\repos\lab8A\lab8A\obj\Debug\lab8A.csproj.GenerateResource.cache
+D:\VisualStudio\source\repos\lab8A\lab8A\obj\Debug\lab8A.csproj.CoreCompileInputs.cache
+D:\VisualStudio\source\repos\lab8A\lab8A\obj\Debug\lab8A.exe
+D:\VisualStudio\source\repos\lab8A\lab8A\obj\Debug\lab8A.pdb
+H:\VisualStudio\lab8A\lab8A\bin\Debug\lab8A.exe.config
+H:\VisualStudio\lab8A\lab8A\obj\Debug\lab8A.exe
+H:\VisualStudio\lab8A\lab8A\obj\Debug\lab8A.pdb
+H:\VisualStudio\lab8A\lab8A\bin\Debug\lab8A.exe
+H:\VisualStudio\lab8A\lab8A\bin\Debug\lab8A.pdb
+H:\VisualStudio\lab8A\lab8A\obj\Debug\lab8A.csprojResolveAssemblyReference.cache
+H:\VisualStudio\lab8A\lab8A\obj\Debug\MainWindow.g.cs
+H:\VisualStudio\lab8A\lab8A\obj\Debug\App.g.cs
+H:\VisualStudio\lab8A\lab8A\obj\Debug\lab8A_MarkupCompile.cache
+H:\VisualStudio\lab8A\lab8A\obj\Debug\lab8A_MarkupCompile.lref
+H:\VisualStudio\lab8A\lab8A\obj\Debug\MainWindow.baml
+H:\VisualStudio\lab8A\lab8A\obj\Debug\lab8A.g.resources
+H:\VisualStudio\lab8A\lab8A\obj\Debug\lab8A.Properties.Resources.resources
+H:\VisualStudio\lab8A\lab8A\obj\Debug\lab8A.csproj.GenerateResource.Cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab8A\lab8A\bin\Debug\lab8A.exe.config
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab8A\lab8A\bin\Debug\lab8A.exe
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab8A\lab8A\bin\Debug\lab8A.pdb
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab8A\lab8A\obj\Debug\lab8A.csprojAssemblyReference.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab8A\lab8A\obj\Debug\MainWindow.g.cs
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab8A\lab8A\obj\Debug\App.g.cs
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab8A\lab8A\obj\Debug\lab8A_MarkupCompile.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab8A\lab8A\obj\Debug\lab8A_MarkupCompile.lref
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab8A\lab8A\obj\Debug\MainWindow.baml
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab8A\lab8A\obj\Debug\lab8A.g.resources
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab8A\lab8A\obj\Debug\lab8A.Properties.Resources.resources
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab8A\lab8A\obj\Debug\lab8A.csproj.GenerateResource.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab8A\lab8A\obj\Debug\lab8A.csproj.CoreCompileInputs.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab8A\lab8A\obj\Debug\lab8A.exe
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab8A\lab8A\obj\Debug\lab8A.pdb

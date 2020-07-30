@@ -1,0 +1,98 @@
+﻿<Window x:Class="Lab8B.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="900">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="#FF9C997A"/>
+                <GradientStop Color="#FF9C997A" Offset="1"/>
+                <GradientStop Color="#B29C997A" Offset="0.5"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="160"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="160"/>
+            <ColumnDefinition Width="9*"/>
+        </Grid.ColumnDefinitions>
+        <ListView x:Name="lvImages" Grid.Column="0" Grid.Row="1" MouseLeftButtonUp="LbPreview_MouseLeftButtonUp">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Path=FileName}"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            <ListView.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FF9C997A"/>
+                    <GradientStop Color="#FF9C997A" Offset="1"/>
+                    <GradientStop Color="#B29C997A" Offset="0.5"/>
+                </LinearGradientBrush>
+            </ListView.Background>
+        </ListView>
+        <Image x:Name="imgMain" Grid.Column="1" Grid.Row="1"/>
+        <Button x:Name="btnAdd" Grid.Column="0" Grid.Row="0" Content="Add" Click="btnAdd_Click"/>
+        <ComboBox x:Name="cbOrientation" Grid.Column="1" Grid.Row="0">
+            <ComboBoxItem Content="Landscape" IsSelected="True" Selected="Landscape_Selected"/>
+            <ComboBoxItem Content="Portrait" Selected="Portrait_Selected"/>
+        </ComboBox>
+        <ListBox x:Name="lbPreview" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" MouseLeftButtonUp="LbPreview_MouseLeftButtonUp">
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel Orientation="Horizontal"/>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <!-- <TextBlock Text="{Binding Path=FileName}"/>-->
+                    <Image x:Name="fck" Source="{Binding Path=FullPath}" Height="70" Opacity="0.5"/>
+                    <DataTemplate.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseRightButtonUp">
+                            <EventTrigger.Actions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Duration="0:0:0.3" Storyboard.TargetName="fck" Storyboard.TargetProperty="Height" To="200"/>
+                                        <DoubleAnimation Duration="0:0:0.3" Storyboard.TargetName="fck" Storyboard.TargetProperty="Opacity" From="0.5" To="1"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger.Actions>
+                        </EventTrigger>
+                        <EventTrigger RoutedEvent="Mouse.MouseEnter">
+                            <EventTrigger.Actions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Duration="0:0:0.3" Storyboard.TargetName="fck" Storyboard.TargetProperty="Height" To="100"/>
+                                        <DoubleAnimation Duration="0:0:0.3" Storyboard.TargetName="fck" Storyboard.TargetProperty="Opacity" From="0.5" To="1"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger.Actions>
+                        </EventTrigger>
+                        <EventTrigger RoutedEvent="Mouse.MouseLeave">
+                            <EventTrigger.Actions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Duration="0:0:0.3" Storyboard.TargetName="fck" Storyboard.TargetProperty="Height" To="70"/>
+                                        <DoubleAnimation Duration="0:0:0.3" Storyboard.TargetName="fck" Storyboard.TargetProperty="Opacity" From="1" To="0.5"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger.Actions>
+                        </EventTrigger>
+                    </DataTemplate.Triggers>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <ListBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FFA6A385"/>
+                    <GradientStop Color="#FFA6A385" Offset="1"/>
+                    <GradientStop Color="#B2CBC58A" Offset="0.5"/>
+                </LinearGradientBrush>
+            </ListBox.Background>
+        </ListBox>
+    </Grid>
+</Window>

@@ -1,0 +1,55 @@
+﻿@model IEnumerable<WebApplication1.Models.Makers>
+
+@{
+    ViewBag.Title = "Makers";
+}
+
+<div style="position: fixed;
+  top: 0;
+  left: 0;
+  width: 13%;
+  height: 100%;
+  background-color:aqua;
+  border-right:dashed;
+  border-bottom-color:black;
+  border-width:1px">
+    <ul style="padding-top:20%; font-size:medium">
+        <li>@Html.ActionLink("Компьютеры", "admin_index", "Komputers")</li>
+        <li>@Html.ActionLink("Производители", "index", "Makers")</li>
+        <li>@Html.ActionLink("Заказы", "index", "Deliveries")</li>
+        <li>@Html.ActionLink("Продажи", "index", "Orders")</li>
+        <li>@Html.ActionLink("Комплектующие", "Index", "Details")</li>
+    </ul>
+</div>
+<div style="position: fixed;
+    top: 0;
+    left: 13%;
+    width: 100%;
+    height: 100%;
+    background-color:bisque">
+    <div style="left:5%;top:5%;position:relative">
+        <p>
+            @Html.ActionLink("Create New", "Create")
+        </p>
+        <table style="width:89%">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr style="border-bottom:solid;border-top:solid;border-color:darksalmon">
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>

@@ -1,0 +1,7 @@
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

@@ -1,0 +1,120 @@
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\bin\Debug\App_10C.exe.config
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\bin\Debug\App_10C.exe
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\bin\Debug\App_10C.pdb
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\App_10C.csprojResolveAssemblyReference.cache
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\MainWindow.baml
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\MainWindow.g.cs
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\App.g.cs
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\App_10C_MarkupCompile.cache
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\App_10C.g.resources
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\App_10C.Properties.Resources.resources
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\App_10C.csproj.GenerateResource.Cache
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\App_10C.exe
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\App_10C.pdb
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\bin\Debug\App_10C.exe.config
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\App_10C.exe
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\App_10C.pdb
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\bin\Debug\App_10C.exe
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\bin\Debug\App_10C.pdb
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\bin\Debug\WPFToolkit.dll
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\App_10C.csprojResolveAssemblyReference.cache
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\MainWindow.baml
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\MainWindow.g.cs
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\App.g.cs
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\App_10C_MarkupCompile.cache
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\App_10C.g.resources
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\App_10C.Properties.Resources.resources
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\App_10C.csproj.GenerateResource.Cache
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\App_10C_MarkupCompile.lref
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\bin\Debug\WPFToolkit.dll
+G:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Учёба\ИСРПО\Applications\App_10C\App_10C\obj\Debug\App_10C_MarkupCompile.lref
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\bin\Debug\App_10C.exe.config
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\bin\Debug\App_10C.exe
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\bin\Debug\App_10C.pdb
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\bin\Debug\WPFToolkit.dll
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\obj\Debug\App_10C.csprojAssemblyReference.cache
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\obj\Debug\MainWindow.g.cs
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\obj\Debug\App.g.cs
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\obj\Debug\App_10C_MarkupCompile.cache
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\obj\Debug\App_10C_MarkupCompile.lref
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\obj\Debug\MainWindow.baml
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\obj\Debug\App_10C.g.resources
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\obj\Debug\App_10C.Properties.Resources.resources
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\obj\Debug\App_10C.csproj.GenerateResource.cache
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\obj\Debug\App_10C.csproj.CoreCompileInputs.cache
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\obj\Debug\App_10C.csproj.CopyComplete
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\obj\Debug\App_10C.exe
+C:\Users\Samor\Desktop\От Никиты\App_10C\App_10C\obj\Debug\App_10C.pdb
+H:\Чемкаева\App_10C\App_10C\bin\Debug\App_10C.exe.config
+H:\Чемкаева\App_10C\App_10C\bin\Debug\App_10C.exe
+H:\Чемкаева\App_10C\App_10C\bin\Debug\App_10C.pdb
+H:\Чемкаева\App_10C\App_10C\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+H:\Чемкаева\App_10C\App_10C\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+H:\Чемкаева\App_10C\App_10C\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+H:\Чемкаева\App_10C\App_10C\bin\Debug\WPFToolkit.dll
+H:\Чемкаева\App_10C\App_10C\obj\Debug\App_10C.csprojAssemblyReference.cache
+H:\Чемкаева\App_10C\App_10C\obj\Debug\MainWindow.g.cs
+H:\Чемкаева\App_10C\App_10C\obj\Debug\App.g.cs
+H:\Чемкаева\App_10C\App_10C\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\Чемкаева\App_10C\App_10C\obj\Debug\App_10C_MarkupCompile.cache
+H:\Чемкаева\App_10C\App_10C\obj\Debug\App_10C_MarkupCompile.lref
+H:\Чемкаева\App_10C\App_10C\obj\Debug\MainWindow.baml
+H:\Чемкаева\App_10C\App_10C\obj\Debug\App_10C.g.resources
+H:\Чемкаева\App_10C\App_10C\obj\Debug\App_10C.Properties.Resources.resources
+H:\Чемкаева\App_10C\App_10C\obj\Debug\App_10C.csproj.GenerateResource.cache
+H:\Чемкаева\App_10C\App_10C\obj\Debug\App_10C.csproj.CoreCompileInputs.cache
+H:\Чемкаева\App_10C\App_10C\obj\Debug\App_10C.csproj.CopyComplete
+H:\Чемкаева\App_10C\App_10C\obj\Debug\App_10C.exe
+H:\Чемкаева\App_10C\App_10C\obj\Debug\App_10C.pdb
+H:\App_10C\App_10C\bin\Debug\App_10C.exe.config
+H:\App_10C\App_10C\obj\Debug\App_10C.exe
+H:\App_10C\App_10C\obj\Debug\App_10C.pdb
+H:\App_10C\App_10C\bin\Debug\App_10C.exe
+H:\App_10C\App_10C\bin\Debug\App_10C.pdb
+H:\App_10C\App_10C\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+H:\App_10C\App_10C\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+H:\App_10C\App_10C\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+H:\App_10C\App_10C\bin\Debug\WPFToolkit.dll
+H:\App_10C\App_10C\obj\Debug\App_10C.csprojResolveAssemblyReference.cache
+H:\App_10C\App_10C\obj\Debug\MainWindow.g.cs
+H:\App_10C\App_10C\obj\Debug\App.g.cs
+H:\App_10C\App_10C\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\App_10C\App_10C\obj\Debug\App_10C_MarkupCompile.cache
+H:\App_10C\App_10C\obj\Debug\App_10C_MarkupCompile.lref
+H:\App_10C\App_10C\obj\Debug\MainWindow.baml
+H:\App_10C\App_10C\obj\Debug\App_10C.g.resources
+H:\App_10C\App_10C\obj\Debug\App_10C.Properties.Resources.resources
+H:\App_10C\App_10C\obj\Debug\App_10C.csproj.GenerateResource.Cache
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\bin\Debug\App_10C.exe.config
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\bin\Debug\App_10C.exe
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\bin\Debug\App_10C.pdb
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\bin\Debug\WPFToolkit.dll
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\obj\Debug\App_10C.csprojAssemblyReference.cache
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\obj\Debug\MainWindow.g.cs
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\obj\Debug\App.g.cs
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\obj\Debug\App_10C_MarkupCompile.cache
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\obj\Debug\App_10C_MarkupCompile.lref
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\obj\Debug\MainWindow.baml
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\obj\Debug\App_10C.g.resources
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\obj\Debug\App_10C.Properties.Resources.resources
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\obj\Debug\App_10C.csproj.GenerateResource.cache
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\obj\Debug\App_10C.csproj.CoreCompileInputs.cache
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\obj\Debug\App_10C.csproj.CopyComplete
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\obj\Debug\App_10C.exe
+C:\Users\Koss4ok\Desktop\App_10C\App_10C\obj\Debug\App_10C.pdb

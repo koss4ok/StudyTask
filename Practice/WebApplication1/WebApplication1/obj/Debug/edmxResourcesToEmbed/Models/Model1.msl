@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище databaseModelContainer" CdmEntityContainer="databaseEntities">
+    <EntitySetMapping Name="Admin">
+      <EntityTypeMapping TypeName="databaseModel.Admin">
+        <MappingFragment StoreEntitySet="Admin">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Deliveries">
+      <EntityTypeMapping TypeName="databaseModel.Deliveries">
+        <MappingFragment StoreEntitySet="Deliveries">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Num_Delivery" ColumnName="Num_Delivery" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Hard_disks">
+      <EntityTypeMapping TypeName="databaseModel.Hard_disks">
+        <MappingFragment StoreEntitySet="Hard_disks">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Delivery" ColumnName="Delivery" />
+          <ScalarProperty Name="Order" ColumnName="Order" />
+          <ScalarProperty Name="Maker" ColumnName="Maker" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Komputers">
+      <EntityTypeMapping TypeName="databaseModel.Komputers">
+        <MappingFragment StoreEntitySet="Komputers">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Processor" ColumnName="Processor" />
+          <ScalarProperty Name="Motherboard" ColumnName="Motherboard" />
+          <ScalarProperty Name="Ram" ColumnName="Ram" />
+          <ScalarProperty Name="Hard_drive" ColumnName="Hard_drive" />
+          <ScalarProperty Name="Delivery" ColumnName="Delivery" />
+          <ScalarProperty Name="Order" ColumnName="Order" />
+          <ScalarProperty Name="image" ColumnName="image" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Makers">
+      <EntityTypeMapping TypeName="databaseModel.Makers">
+        <MappingFragment StoreEntitySet="Makers">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Motherboards">
+      <EntityTypeMapping TypeName="databaseModel.Motherboards">
+        <MappingFragment StoreEntitySet="Motherboards">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Delivery" ColumnName="Delivery" />
+          <ScalarProperty Name="Order" ColumnName="Order" />
+          <ScalarProperty Name="Maker" ColumnName="Maker" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="databaseModel.Orders">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Num_Order" ColumnName="Num_Order" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Processors">
+      <EntityTypeMapping TypeName="databaseModel.Processors">
+        <MappingFragment StoreEntitySet="Processors">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Delivery" ColumnName="Delivery" />
+          <ScalarProperty Name="Order" ColumnName="Order" />
+          <ScalarProperty Name="Maker" ColumnName="Maker" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rams">
+      <EntityTypeMapping TypeName="databaseModel.Rams">
+        <MappingFragment StoreEntitySet="Rams">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Delivery" ColumnName="Delivery" />
+          <ScalarProperty Name="Order" ColumnName="Order" />
+          <ScalarProperty Name="Maker" ColumnName="Maker" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="NewAdmin" FunctionName="Хранилище databaseModel.NewAdmin" />
+    <FunctionImportMapping FunctionImportName="CheckAcc" FunctionName="Хранилище databaseModel.CheckAcc">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="databaseModel.CheckAcc_Result">
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

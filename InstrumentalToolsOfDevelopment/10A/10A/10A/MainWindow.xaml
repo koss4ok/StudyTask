@@ -1,0 +1,41 @@
+﻿<Window x:Class="_10A.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_10A"
+        mc:Ignorable="d"
+        Title="RSS" Height="370" Width="820" SizeChanged="Window_SizeChanged">
+
+    <Window.Resources>
+        <XmlDataProvider Source="https://news.google.com/rss?hl=ru" x:Key="dnt" XPath="rss/channel"></XmlDataProvider>
+    </Window.Resources>
+
+    <Grid>
+        <StackPanel DataContext="{Binding Source={StaticResource dnt}}">
+            <StackPanel Name="infoBlock">
+                <Label Content="{Binding XPath=title}"/>
+                <Label Content="{Binding XPath=description}"/>
+            </StackPanel>
+            <ListBox IsSynchronizedWithCurrentItem="True" 
+                     ItemsSource="{Binding XPath=item}"
+                     ScrollViewer.CanContentScroll="False"
+                     Name="lb">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <TextBlock Text="{Binding XPath=title}" FontSize="20"/>
+                            <Expander Header="Показать" Name="expand" Grid.Row="1" Width="{Binding RelativeSource={RelativeSource Mode=FindAncestor,AncestorType={x:Type StackPanel}},Path=ActualWidth}">
+                                <TextBlock Text="{Binding XPath=./description}" TextWrapping="Wrap" TextTrimming="WordEllipsis"/>
+                            </Expander>
+                        </Grid>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+    </Grid>
+</Window>

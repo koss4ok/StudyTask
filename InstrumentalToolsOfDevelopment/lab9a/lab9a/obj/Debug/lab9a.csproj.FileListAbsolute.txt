@@ -1,0 +1,63 @@
+D:\VisualStudio\source\repos\lab9a\lab9a\bin\Debug\lab9a.exe.config
+D:\VisualStudio\source\repos\lab9a\lab9a\bin\Debug\lab9a.exe
+D:\VisualStudio\source\repos\lab9a\lab9a\bin\Debug\lab9a.pdb
+D:\VisualStudio\source\repos\lab9a\lab9a\obj\Debug\lab9a.csprojAssemblyReference.cache
+D:\VisualStudio\source\repos\lab9a\lab9a\obj\Debug\MainWindow.g.cs
+D:\VisualStudio\source\repos\lab9a\lab9a\obj\Debug\App.g.cs
+D:\VisualStudio\source\repos\lab9a\lab9a\obj\Debug\lab9a_MarkupCompile.cache
+D:\VisualStudio\source\repos\lab9a\lab9a\obj\Debug\lab9a_MarkupCompile.lref
+D:\VisualStudio\source\repos\lab9a\lab9a\obj\Debug\MainWindow.baml
+D:\VisualStudio\source\repos\lab9a\lab9a\obj\Debug\lab9a.g.resources
+D:\VisualStudio\source\repos\lab9a\lab9a\obj\Debug\lab9a.Properties.Resources.resources
+D:\VisualStudio\source\repos\lab9a\lab9a\obj\Debug\lab9a.csproj.GenerateResource.cache
+D:\VisualStudio\source\repos\lab9a\lab9a\obj\Debug\lab9a.csproj.CoreCompileInputs.cache
+D:\VisualStudio\source\repos\lab9a\lab9a\obj\Debug\lab9a.exe
+D:\VisualStudio\source\repos\lab9a\lab9a\obj\Debug\lab9a.pdb
+H:\VisualStudio\lab9a\lab9a\obj\Debug\MainWindow.g.cs
+H:\VisualStudio\lab9a\lab9a\obj\Debug\App.g.cs
+H:\VisualStudio\lab9a\lab9a\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\VisualStudio\lab9a\lab9a\obj\Debug\lab9a_MarkupCompile.cache
+H:\VisualStudio\lab9a\lab9a\obj\Debug\lab9a_MarkupCompile.lref
+H:\VisualStudio\lab9a\lab9a\bin\Debug\lab9a.exe.config
+H:\VisualStudio\lab9a\lab9a\bin\Debug\lab9a.exe
+H:\VisualStudio\lab9a\lab9a\bin\Debug\lab9a.pdb
+H:\VisualStudio\lab9a\lab9a\obj\Debug\MainWindow.baml
+H:\VisualStudio\lab9a\lab9a\obj\Debug\lab9a.g.resources
+H:\VisualStudio\lab9a\lab9a\obj\Debug\lab9a.Properties.Resources.resources
+H:\VisualStudio\lab9a\lab9a\obj\Debug\lab9a.csproj.GenerateResource.Cache
+H:\VisualStudio\lab9a\lab9a\obj\Debug\lab9a.exe
+H:\VisualStudio\lab9a\lab9a\obj\Debug\lab9a.pdb
+C:\Users\429281-11\Desktop\lab9a\lab9a\bin\Debug\lab9a.exe.config
+C:\Users\429281-11\Desktop\lab9a\lab9a\obj\Debug\lab9a.exe
+C:\Users\429281-11\Desktop\lab9a\lab9a\obj\Debug\lab9a.pdb
+C:\Users\429281-11\Desktop\lab9a\lab9a\bin\Debug\lab9a.exe
+C:\Users\429281-11\Desktop\lab9a\lab9a\bin\Debug\lab9a.pdb
+C:\Users\429281-11\Desktop\lab9a\lab9a\obj\Debug\lab9a.csprojResolveAssemblyReference.cache
+C:\Users\429281-11\Desktop\lab9a\lab9a\obj\Debug\MainWindow.g.cs
+C:\Users\429281-11\Desktop\lab9a\lab9a\obj\Debug\App.g.cs
+C:\Users\429281-11\Desktop\lab9a\lab9a\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\429281-11\Desktop\lab9a\lab9a\obj\Debug\lab9a_MarkupCompile.cache
+C:\Users\429281-11\Desktop\lab9a\lab9a\obj\Debug\lab9a_MarkupCompile.lref
+C:\Users\429281-11\Desktop\lab9a\lab9a\obj\Debug\MainWindow.baml
+C:\Users\429281-11\Desktop\lab9a\lab9a\obj\Debug\lab9a.g.resources
+C:\Users\429281-11\Desktop\lab9a\lab9a\obj\Debug\lab9a.Properties.Resources.resources
+C:\Users\429281-11\Desktop\lab9a\lab9a\obj\Debug\lab9a.csproj.GenerateResource.Cache
+D:\lab9a\lab9a\bin\Debug\lab9a.exe.config
+D:\lab9a\lab9a\obj\Debug\lab9a.exe
+D:\lab9a\lab9a\obj\Debug\lab9a.pdb
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab9a\lab9a\bin\Debug\lab9a.exe.config
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab9a\lab9a\bin\Debug\lab9a.exe
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab9a\lab9a\bin\Debug\lab9a.pdb
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab9a\lab9a\obj\Debug\lab9a.csprojAssemblyReference.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab9a\lab9a\obj\Debug\MainWindow.g.cs
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab9a\lab9a\obj\Debug\App.g.cs
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab9a\lab9a\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab9a\lab9a\obj\Debug\lab9a_MarkupCompile.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab9a\lab9a\obj\Debug\lab9a_MarkupCompile.lref
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab9a\lab9a\obj\Debug\MainWindow.baml
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab9a\lab9a\obj\Debug\lab9a.g.resources
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab9a\lab9a\obj\Debug\lab9a.Properties.Resources.resources
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab9a\lab9a\obj\Debug\lab9a.csproj.GenerateResource.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab9a\lab9a\obj\Debug\lab9a.csproj.CoreCompileInputs.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab9a\lab9a\obj\Debug\lab9a.exe
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\lab9a\lab9a\obj\Debug\lab9a.pdb

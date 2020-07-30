@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="53c00df4850b4740b4a03b246c3fba1e" Name="Diagram1" ZoomLevel="74">
+        <EntityTypeShape EntityType="databaseModel.Admin" Width="1.5" PointX="0.5" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="databaseModel.Deliveries" Width="1.5" PointX="5.125" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="databaseModel.Hard_disks" Width="1.5" PointX="9.75" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="databaseModel.Komputers" Width="1.5" PointX="12" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="databaseModel.Makers" Width="1.5" PointX="14.625" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="databaseModel.Motherboards" Width="1.5" PointX="7.75" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="databaseModel.Orders" Width="1.5" PointX="5.125" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="databaseModel.Processors" Width="1.5" PointX="7.875" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="databaseModel.Rams" Width="1.5" PointX="9.875" PointY="11.125" IsExpanded="true" />
+        <AssociationConnector Association="databaseModel.FK_Hard_disks_Deliveries" ManuallyRouted="false" />
+        <AssociationConnector Association="databaseModel.FK_Komputers_Deliveries" ManuallyRouted="false" />
+        <AssociationConnector Association="databaseModel.FK_Motherboards_Deliveries" ManuallyRouted="false" />
+        <AssociationConnector Association="databaseModel.FK_Processors_Deliveries" ManuallyRouted="false" />
+        <AssociationConnector Association="databaseModel.FK_Rams_Deliveries" ManuallyRouted="false" />
+        <AssociationConnector Association="databaseModel.FK_Hard_disks_Makers" ManuallyRouted="false" />
+        <AssociationConnector Association="databaseModel.FK_Hard_disks_Orders" ManuallyRouted="false" />
+        <AssociationConnector Association="databaseModel.FK_Komputers_Hard_disks" ManuallyRouted="false" />
+        <AssociationConnector Association="databaseModel.FK_Komputers_Motherboards" ManuallyRouted="false" />
+        <AssociationConnector Association="databaseModel.FK_Komputers_Orders" ManuallyRouted="false" />
+        <AssociationConnector Association="databaseModel.FK_Komputers_Processors" ManuallyRouted="false" />
+        <AssociationConnector Association="databaseModel.FK_Komputers_Rams" ManuallyRouted="false" />
+        <AssociationConnector Association="databaseModel.FK_Motherboards_Makers" ManuallyRouted="false" />
+        <AssociationConnector Association="databaseModel.FK_Processors_Makers" ManuallyRouted="false" />
+        <AssociationConnector Association="databaseModel.FK_Rams_Makers" ManuallyRouted="false" />
+        <AssociationConnector Association="databaseModel.FK_Motherboards_Orders" ManuallyRouted="false" />
+        <AssociationConnector Association="databaseModel.FK_Processors_Orders" ManuallyRouted="false" />
+        <AssociationConnector Association="databaseModel.FK_Rams_Orders" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

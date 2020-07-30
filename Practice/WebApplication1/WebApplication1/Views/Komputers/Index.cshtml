@@ -1,0 +1,111 @@
+﻿@model IEnumerable<WebApplication1.Models.Komputers>
+
+@{
+    ViewBag.Title = "Komputers";
+}
+
+<div style="position: fixed;
+      top: 0;
+      left: 0;
+      width: 13%;
+      height: 100%;
+      background-color:aqua;
+      border-right:dashed;
+      border-bottom-color:black;
+      border-width:1px">
+        <ul style="font-size:120%">
+            <li style="margin-top:20%">@Html.ActionLink("Компьютеры", "index", "Komputers")</li>
+            <li style="margin-top:5%">@Html.ActionLink("Регистрация", "Register", "Home")</li>
+            <li style="margin-top:5%">@Html.ActionLink("Авторизация", "Auth", "Home")</li>
+        </ul>
+</div>
+<div style="position: fixed;
+    top: 0;
+    left: 13%;
+    width: 100%;
+    height: 100%;
+    background-color:bisque">
+    <div style="left:5%;top:5%;position:relative">
+        @using (Html.BeginForm())
+        {
+            <p>
+                Find by name: @Html.TextBox("SearchString")
+                <input type="submit" value="Search" />
+            </p>
+        }
+        <table style="width:85%">
+            <tr>
+                <th></th>
+                <th>
+                    @Html.ActionLink("Name", "Index", new { sortOrder = ViewBag.NameSortParm })
+                </th>
+                <th>
+                    @Html.ActionLink("Deliveries", "Index", new { sortOrder = ViewBag.DeliveriesSortParm })
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Hard_disks)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Motherboards)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Orders)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Processors)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Rams)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+            <tr style="border-bottom:solid;border-top:solid;border-color:darksalmon">
+                <td>
+
+                    @{
+                        if (item.image != null)
+                        {
+                            byte[] photo = item.image;
+                            string imageSrc = null;
+                            if (photo != null)
+                            {
+                                MemoryStream ms = new MemoryStream();
+                                ms.Write(photo, 0, photo.Length);
+                                string imageBase64 = Convert.ToBase64String(ms.ToArray());
+                                imageSrc = string.Format("data:image/jpg;base64,{0}", imageBase64);
+                                string base64String = Convert.ToBase64String(photo, 0, photo.Length);
+                            }
+
+
+                            <img src="@imageSrc" alt="Image" width="60" height="60" />
+                        }
+                     }
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Deliveries.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Hard_disks.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Motherboards.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Orders.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Processors.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Rams.Name)
+                </td>
+            </tr>
+            }
+        </table>
+    </div>

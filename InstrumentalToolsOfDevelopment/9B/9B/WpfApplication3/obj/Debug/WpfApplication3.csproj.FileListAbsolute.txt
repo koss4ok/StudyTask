@@ -1,0 +1,78 @@
+D:\ИСРПО\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\ИСРПО\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+D:\ИСРПО\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+D:\ИСРПО\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+D:\ИСРПО\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+D:\ИСРПО\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+D:\ИСРПО\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+D:\ИСРПО\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+D:\ИСРПО\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+D:\ИСРПО\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+D:\ИСРПО\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+D:\ИСРПО\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+D:\ИСРПО\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+D:\ИСРПО\WpfApplication3\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ИСРПО\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+E:\ИСРПО\ckbd\9\9B\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+E:\ИСРПО\ckbd\9\9B\WpfApplication3\obj\Debug\WpfApplication3.exe
+E:\ИСРПО\ckbd\9\9B\WpfApplication3\obj\Debug\WpfApplication3.pdb
+E:\ИСРПО\ckbd\9\9B\WpfApplication3\obj\Debug\MainWindow.g.cs
+E:\ИСРПО\ckbd\9\9B\WpfApplication3\obj\Debug\App.g.cs
+E:\ИСРПО\ckbd\9\9B\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ИСРПО\ckbd\9\9B\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+E:\ИСРПО\ckbd\9\9B\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+E:\ИСРПО\ckbd\9\9B\WpfApplication3\bin\Debug\WpfApplication3.exe
+E:\ИСРПО\ckbd\9\9B\WpfApplication3\bin\Debug\WpfApplication3.pdb
+E:\ИСРПО\ckbd\9\9B\WpfApplication3\obj\Debug\MainWindow.baml
+E:\ИСРПО\ckbd\9\9B\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+E:\ИСРПО\ckbd\9\9B\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+E:\ИСРПО\ckbd\9\9B\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\9B\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\User\Desktop\9B\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\User\Desktop\9B\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\Kamila\Desktop\ИСРПО\9B\9B\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\Kamila\Desktop\ИСРПО\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\Kamila\Desktop\ИСРПО\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\Kamila\Desktop\ИСРПО\9B\9B\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\Kamila\Desktop\ИСРПО\9B\9B\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\Kamila\Desktop\ИСРПО\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Kamila\Desktop\ИСРПО\9B\9B\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\Kamila\Desktop\ИСРПО\9B\9B\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\Kamila\Desktop\ИСРПО\9B\9B\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kamila\Desktop\ИСРПО\9B\9B\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Kamila\Desktop\ИСРПО\9B\9B\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\Kamila\Desktop\ИСРПО\9B\9B\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\Kamila\Desktop\ИСРПО\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\Kamila\Desktop\ИСРПО\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\Kamila\Desktop\ИСРПО\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\koben\Desktop\9\9B\9B\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\koben\Desktop\9\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\koben\Desktop\9\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\koben\Desktop\9\9B\9B\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\koben\Desktop\9\9B\9B\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\koben\Desktop\9\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+C:\Users\koben\Desktop\9\9B\9B\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\koben\Desktop\9\9B\9B\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\koben\Desktop\9\9B\9B\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\koben\Desktop\9\9B\9B\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\koben\Desktop\9\9B\9B\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\koben\Desktop\9\9B\9B\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\koben\Desktop\9\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\koben\Desktop\9\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\koben\Desktop\9\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9B\9B\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9B\9B\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9B\9B\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.csprojAssemblyReference.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9B\9B\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9B\9B\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9B\9B\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9B\9B\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9B\9B\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9B\9B\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.csproj.CoreCompileInputs.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9B\9B\WpfApplication3\obj\Debug\WpfApplication3.pdb

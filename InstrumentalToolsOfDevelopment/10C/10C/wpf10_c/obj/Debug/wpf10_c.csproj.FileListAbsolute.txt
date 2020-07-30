@@ -1,0 +1,213 @@
+c:\users\user\desktop\wpf10_c\wpf10_c\bin\Debug\wpf10_c.exe.config
+c:\users\user\desktop\wpf10_c\wpf10_c\obj\Debug\wpf10_c.csprojResolveAssemblyReference.cache
+c:\users\user\desktop\wpf10_c\wpf10_c\obj\Debug\App.g.cs
+c:\users\user\desktop\wpf10_c\wpf10_c\obj\Debug\wpf10_c_MarkupCompile.cache
+c:\users\user\desktop\wpf10_c\wpf10_c\obj\Debug\MainWindow.g.cs
+c:\users\user\desktop\wpf10_c\wpf10_c\obj\Debug\wpf10_c_MarkupCompile.lref
+c:\users\user\desktop\wpf10_c\wpf10_c\bin\Debug\wpf10_c.exe
+c:\users\user\desktop\wpf10_c\wpf10_c\bin\Debug\wpf10_c.pdb
+c:\users\user\desktop\wpf10_c\wpf10_c\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+c:\users\user\desktop\wpf10_c\wpf10_c\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+c:\users\user\desktop\wpf10_c\wpf10_c\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+c:\users\user\desktop\wpf10_c\wpf10_c\bin\Debug\WPFToolkit.dll
+c:\users\user\desktop\wpf10_c\wpf10_c\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+c:\users\user\desktop\wpf10_c\wpf10_c\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+c:\users\user\desktop\wpf10_c\wpf10_c\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+c:\users\user\desktop\wpf10_c\wpf10_c\bin\Debug\WPFToolkit.pdb
+c:\users\user\desktop\wpf10_c\wpf10_c\obj\Debug\MainWindow.baml
+c:\users\user\desktop\wpf10_c\wpf10_c\obj\Debug\wpf10_c.g.resources
+c:\users\user\desktop\wpf10_c\wpf10_c\obj\Debug\wpf10_c.Properties.Resources.resources
+c:\users\user\desktop\wpf10_c\wpf10_c\obj\Debug\wpf10_c.csproj.GenerateResource.Cache
+c:\users\user\desktop\wpf10_c\wpf10_c\obj\Debug\wpf10_c.exe
+c:\users\user\desktop\wpf10_c\wpf10_c\obj\Debug\wpf10_c.pdb
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\wpf10_c.exe.config
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\obj\Debug\wpf10_c.exe
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\obj\Debug\wpf10_c.pdb
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\wpf10_c.exe
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\wpf10_c.pdb
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\WPFToolkit.pdb
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\obj\Debug\wpf10_c.csprojResolveAssemblyReference.cache
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\obj\Debug\MainWindow.g.cs
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\obj\Debug\App.g.cs
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\obj\Debug\wpf10_c_MarkupCompile.cache
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\obj\Debug\wpf10_c_MarkupCompile.lref
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\obj\Debug\MainWindow.baml
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\obj\Debug\wpf10_c.g.resources
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\obj\Debug\wpf10_c.Properties.Resources.resources
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\obj\Debug\wpf10_c.csproj.GenerateResource.Cache
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\DynamicDataDisplay.Maps.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\DynamicDataDisplay.Markers.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\DynamicDataDisplay.Markers2.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\Parser.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\ZedGraph.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\ZedGraph.xml
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\ControlzEx.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\MahApps.Metro.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\ControlzEx.pdb
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\MahApps.Metro.pdb
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\MahApps.Metro.xml
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Kamila\Desktop\ИСРПО\10C\10C\wpf10_c\bin\Debug\AjaxControlToolkit.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\wpf10_c.exe.config
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\obj\Debug\wpf10_c.exe
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\obj\Debug\wpf10_c.pdb
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\wpf10_c.exe
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\wpf10_c.pdb
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\AjaxControlToolkit.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\ControlzEx.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\DynamicDataDisplay.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\DynamicDataDisplay.Maps.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\DynamicDataDisplay.Markers.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\DynamicDataDisplay.Markers2.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\MahApps.Metro.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\Parser.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\ZedGraph.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\ControlzEx.pdb
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\MahApps.Metro.pdb
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\MahApps.Metro.xml
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\WPFToolkit.pdb
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\ZedGraph.xml
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\obj\Debug\wpf10_c.csprojResolveAssemblyReference.cache
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\obj\Debug\MainWindow.g.cs
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\obj\Debug\App.g.cs
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\obj\Debug\wpf10_c_MarkupCompile.cache
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\obj\Debug\wpf10_c_MarkupCompile.lref
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\obj\Debug\MainWindow.baml
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\obj\Debug\wpf10_c.g.resources
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\obj\Debug\wpf10_c.Properties.Resources.resources
+C:\Users\koben\Desktop\10\10C\10C\wpf10_c\obj\Debug\wpf10_c.csproj.GenerateResource.Cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\wpf10_c.exe.config
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\wpf10_c.exe
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\wpf10_c.pdb
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\ControlzEx.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\DynamicDataDisplay.Maps.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\DynamicDataDisplay.Markers.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\DynamicDataDisplay.Markers2.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\MahApps.Metro.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\Parser.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\ZedGraph.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\ControlzEx.pdb
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\MahApps.Metro.pdb
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\MahApps.Metro.xml
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\WPFToolkit.pdb
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\ZedGraph.xml
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\obj\Debug\wpf10_c.csprojAssemblyReference.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\obj\Debug\MainWindow.g.cs
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\obj\Debug\App.g.cs
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\obj\Debug\wpf10_c_MarkupCompile.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\obj\Debug\wpf10_c_MarkupCompile.lref
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\obj\Debug\MainWindow.baml
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\obj\Debug\wpf10_c.g.resources
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\obj\Debug\wpf10_c.Properties.Resources.resources
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\obj\Debug\wpf10_c.csproj.GenerateResource.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\obj\Debug\wpf10_c.csproj.CoreCompileInputs.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\obj\Debug\wpf10_c.csproj.CopyComplete
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\obj\Debug\wpf10_c.exe
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\10C\10C\wpf10_c\obj\Debug\wpf10_c.pdb

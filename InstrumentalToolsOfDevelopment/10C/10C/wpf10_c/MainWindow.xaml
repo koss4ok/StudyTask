@@ -1,0 +1,29 @@
+﻿<Window x:Class="wpf10_c.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf10_c"
+        xmlns:chartingToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+        Title="10С" Height="500" Width="865" WindowStartupLocation="CenterScreen">
+    <Canvas>
+        <ListBox Name="listCurrency" ItemsSource="{Binding ValutaCollection}" SelectedItem="{Binding SelectedValuta}" Height="441" Width="218">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock Text="{Binding Path=Title}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <RadioButton Name="radioButton1" FontSize="14" Click="radioButton1_Click" IsChecked="True" Content="Диаграмма" Canvas.Left="410" Canvas.Top="20"/>
+        <RadioButton Name="radioButton2" FontSize="14" Click="radioButton2_Click" Content="График" Canvas.Left="410" Canvas.Top="45"/>
+        <RadioButton Name="radioButton3" FontSize="14" Click="radioButton3_Click" Content="Горизонтальная гистограмма" Canvas.Left="410" Canvas.Top="70"/>
+        <RadioButton Name="radioButton4" FontSize="14" Click="radioButton4_Click" Content="Линия" Canvas.Left="410" Canvas.Top="95"/>
+        <RadioButton Name="radioButton5" FontSize="14" Click="radioButton5_Click" Content="Вертикальная гистограмма" Canvas.Left="410" Canvas.Top="120" Height="15"/>
+        <Calendar Name="myCalendar" Canvas.Left="225" Canvas.Top="10" SelectionMode="SingleRange" IsTodayHighlighted="false" DisplayDate="1/1/2019" DisplayDateStart="9/1/2018" DisplayDateEnd="2/28/2019" SelectedDatesChanged="Calendar_SelectedDatesChanged" PreviewMouseUp="myCalendar_PreviewMouseUp"/>
+        <Button Name="buttonResult" Content="Построить график" Padding="10,5,10,5" Canvas.Left="413" Canvas.Top="146" Click="buttonResult_Click"/>
+        <chartingToolkit:Chart Name="myChart" Title="{Binding SelectedTitle}" Canvas.Left="218" Canvas.Top="198" Width="636" Height="243"/>
+            
+    </Canvas>
+</Window>

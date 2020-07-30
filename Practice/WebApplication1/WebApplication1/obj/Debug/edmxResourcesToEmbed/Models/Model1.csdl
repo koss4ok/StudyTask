@@ -1,0 +1,450 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="databaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Login" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Deliveries">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Num_Delivery" Type="Int32" />
+    <NavigationProperty Name="Hard_disks" Relationship="Self.FK_Hard_disks_Deliveries" FromRole="Deliveries" ToRole="Hard_disks" />
+    <NavigationProperty Name="Komputers" Relationship="Self.FK_Komputers_Deliveries" FromRole="Deliveries" ToRole="Komputers" />
+    <NavigationProperty Name="Motherboards" Relationship="Self.FK_Motherboards_Deliveries" FromRole="Deliveries" ToRole="Motherboards" />
+    <NavigationProperty Name="Processors" Relationship="Self.FK_Processors_Deliveries" FromRole="Deliveries" ToRole="Processors" />
+    <NavigationProperty Name="Rams" Relationship="Self.FK_Rams_Deliveries" FromRole="Deliveries" ToRole="Rams" />
+  </EntityType>
+  <EntityType Name="Hard_disks">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="Delivery" Type="Int32" Nullable="false" />
+    <Property Name="Order" Type="Int32" />
+    <Property Name="Maker" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Deliveries" Relationship="Self.FK_Hard_disks_Deliveries" FromRole="Hard_disks" ToRole="Deliveries" />
+    <NavigationProperty Name="Makers" Relationship="Self.FK_Hard_disks_Makers" FromRole="Hard_disks" ToRole="Makers" />
+    <NavigationProperty Name="Orders" Relationship="Self.FK_Hard_disks_Orders" FromRole="Hard_disks" ToRole="Orders" />
+    <NavigationProperty Name="Komputers" Relationship="Self.FK_Komputers_Hard_disks" FromRole="Hard_disks" ToRole="Komputers" />
+  </EntityType>
+  <EntityType Name="Komputers">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Processor" Type="Int32" Nullable="false" />
+    <Property Name="Motherboard" Type="Int32" Nullable="false" />
+    <Property Name="Ram" Type="Int32" Nullable="false" />
+    <Property Name="Hard_drive" Type="Int32" Nullable="false" />
+    <Property Name="Delivery" Type="Int32" Nullable="false" />
+    <Property Name="Order" Type="Int32" />
+    <Property Name="image" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="Deliveries" Relationship="Self.FK_Komputers_Deliveries" FromRole="Komputers" ToRole="Deliveries" />
+    <NavigationProperty Name="Hard_disks" Relationship="Self.FK_Komputers_Hard_disks" FromRole="Komputers" ToRole="Hard_disks" />
+    <NavigationProperty Name="Motherboards" Relationship="Self.FK_Komputers_Motherboards" FromRole="Komputers" ToRole="Motherboards" />
+    <NavigationProperty Name="Orders" Relationship="Self.FK_Komputers_Orders" FromRole="Komputers" ToRole="Orders" />
+    <NavigationProperty Name="Processors" Relationship="Self.FK_Komputers_Processors" FromRole="Komputers" ToRole="Processors" />
+    <NavigationProperty Name="Rams" Relationship="Self.FK_Komputers_Rams" FromRole="Komputers" ToRole="Rams" />
+  </EntityType>
+  <EntityType Name="Makers">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Hard_disks" Relationship="Self.FK_Hard_disks_Makers" FromRole="Makers" ToRole="Hard_disks" />
+    <NavigationProperty Name="Motherboards" Relationship="Self.FK_Motherboards_Makers" FromRole="Makers" ToRole="Motherboards" />
+    <NavigationProperty Name="Processors" Relationship="Self.FK_Processors_Makers" FromRole="Makers" ToRole="Processors" />
+    <NavigationProperty Name="Rams" Relationship="Self.FK_Rams_Makers" FromRole="Makers" ToRole="Rams" />
+  </EntityType>
+  <EntityType Name="Motherboards">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="Delivery" Type="Int32" Nullable="false" />
+    <Property Name="Order" Type="Int32" />
+    <Property Name="Maker" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Deliveries" Relationship="Self.FK_Motherboards_Deliveries" FromRole="Motherboards" ToRole="Deliveries" />
+    <NavigationProperty Name="Komputers" Relationship="Self.FK_Komputers_Motherboards" FromRole="Motherboards" ToRole="Komputers" />
+    <NavigationProperty Name="Makers" Relationship="Self.FK_Motherboards_Makers" FromRole="Motherboards" ToRole="Makers" />
+    <NavigationProperty Name="Orders" Relationship="Self.FK_Motherboards_Orders" FromRole="Motherboards" ToRole="Orders" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Num_Order" Type="Int32" />
+    <NavigationProperty Name="Hard_disks" Relationship="Self.FK_Hard_disks_Orders" FromRole="Orders" ToRole="Hard_disks" />
+    <NavigationProperty Name="Komputers" Relationship="Self.FK_Komputers_Orders" FromRole="Orders" ToRole="Komputers" />
+    <NavigationProperty Name="Motherboards" Relationship="Self.FK_Motherboards_Orders" FromRole="Orders" ToRole="Motherboards" />
+    <NavigationProperty Name="Processors" Relationship="Self.FK_Processors_Orders" FromRole="Orders" ToRole="Processors" />
+    <NavigationProperty Name="Rams" Relationship="Self.FK_Rams_Orders" FromRole="Orders" ToRole="Rams" />
+  </EntityType>
+  <EntityType Name="Processors">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="Delivery" Type="Int32" Nullable="false" />
+    <Property Name="Order" Type="Int32" />
+    <Property Name="Maker" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Deliveries" Relationship="Self.FK_Processors_Deliveries" FromRole="Processors" ToRole="Deliveries" />
+    <NavigationProperty Name="Komputers" Relationship="Self.FK_Komputers_Processors" FromRole="Processors" ToRole="Komputers" />
+    <NavigationProperty Name="Makers" Relationship="Self.FK_Processors_Makers" FromRole="Processors" ToRole="Makers" />
+    <NavigationProperty Name="Orders" Relationship="Self.FK_Processors_Orders" FromRole="Processors" ToRole="Orders" />
+  </EntityType>
+  <EntityType Name="Rams">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="Delivery" Type="Int32" Nullable="false" />
+    <Property Name="Order" Type="Int32" />
+    <Property Name="Maker" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Deliveries" Relationship="Self.FK_Rams_Deliveries" FromRole="Rams" ToRole="Deliveries" />
+    <NavigationProperty Name="Komputers" Relationship="Self.FK_Komputers_Rams" FromRole="Rams" ToRole="Komputers" />
+    <NavigationProperty Name="Makers" Relationship="Self.FK_Rams_Makers" FromRole="Rams" ToRole="Makers" />
+    <NavigationProperty Name="Orders" Relationship="Self.FK_Rams_Orders" FromRole="Rams" ToRole="Orders" />
+  </EntityType>
+  <Association Name="FK_Hard_disks_Deliveries">
+    <End Role="Deliveries" Type="Self.Deliveries" Multiplicity="1" />
+    <End Role="Hard_disks" Type="Self.Hard_disks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Deliveries">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Hard_disks">
+        <PropertyRef Name="Delivery" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Komputers_Deliveries">
+    <End Role="Deliveries" Type="Self.Deliveries" Multiplicity="1" />
+    <End Role="Komputers" Type="Self.Komputers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Deliveries">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Komputers">
+        <PropertyRef Name="Delivery" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Motherboards_Deliveries">
+    <End Role="Deliveries" Type="Self.Deliveries" Multiplicity="1" />
+    <End Role="Motherboards" Type="Self.Motherboards" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Deliveries">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Motherboards">
+        <PropertyRef Name="Delivery" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Processors_Deliveries">
+    <End Role="Deliveries" Type="Self.Deliveries" Multiplicity="1" />
+    <End Role="Processors" Type="Self.Processors" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Deliveries">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Processors">
+        <PropertyRef Name="Delivery" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Rams_Deliveries">
+    <End Role="Deliveries" Type="Self.Deliveries" Multiplicity="1" />
+    <End Role="Rams" Type="Self.Rams" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Deliveries">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Rams">
+        <PropertyRef Name="Delivery" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Hard_disks_Makers">
+    <End Role="Makers" Type="Self.Makers" Multiplicity="1" />
+    <End Role="Hard_disks" Type="Self.Hard_disks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Makers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Hard_disks">
+        <PropertyRef Name="Maker" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Hard_disks_Orders">
+    <End Role="Orders" Type="Self.Orders" Multiplicity="0..1" />
+    <End Role="Hard_disks" Type="Self.Hard_disks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orders">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Hard_disks">
+        <PropertyRef Name="Order" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Komputers_Hard_disks">
+    <End Role="Hard_disks" Type="Self.Hard_disks" Multiplicity="1" />
+    <End Role="Komputers" Type="Self.Komputers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Hard_disks">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Komputers">
+        <PropertyRef Name="Hard_drive" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Komputers_Motherboards">
+    <End Role="Motherboards" Type="Self.Motherboards" Multiplicity="1" />
+    <End Role="Komputers" Type="Self.Komputers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Motherboards">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Komputers">
+        <PropertyRef Name="Motherboard" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Komputers_Orders">
+    <End Role="Orders" Type="Self.Orders" Multiplicity="0..1" />
+    <End Role="Komputers" Type="Self.Komputers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orders">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Komputers">
+        <PropertyRef Name="Order" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Komputers_Processors">
+    <End Role="Processors" Type="Self.Processors" Multiplicity="1" />
+    <End Role="Komputers" Type="Self.Komputers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Processors">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Komputers">
+        <PropertyRef Name="Processor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Komputers_Rams">
+    <End Role="Rams" Type="Self.Rams" Multiplicity="1" />
+    <End Role="Komputers" Type="Self.Komputers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rams">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Komputers">
+        <PropertyRef Name="Ram" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Motherboards_Makers">
+    <End Role="Makers" Type="Self.Makers" Multiplicity="1" />
+    <End Role="Motherboards" Type="Self.Motherboards" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Makers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Motherboards">
+        <PropertyRef Name="Maker" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Processors_Makers">
+    <End Role="Makers" Type="Self.Makers" Multiplicity="1" />
+    <End Role="Processors" Type="Self.Processors" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Makers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Processors">
+        <PropertyRef Name="Maker" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Rams_Makers">
+    <End Role="Makers" Type="Self.Makers" Multiplicity="1" />
+    <End Role="Rams" Type="Self.Rams" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Makers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Rams">
+        <PropertyRef Name="Maker" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Motherboards_Orders">
+    <End Role="Orders" Type="Self.Orders" Multiplicity="0..1" />
+    <End Role="Motherboards" Type="Self.Motherboards" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orders">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Motherboards">
+        <PropertyRef Name="Order" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Processors_Orders">
+    <End Role="Orders" Type="Self.Orders" Multiplicity="0..1" />
+    <End Role="Processors" Type="Self.Processors" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orders">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Processors">
+        <PropertyRef Name="Order" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Rams_Orders">
+    <End Role="Orders" Type="Self.Orders" Multiplicity="0..1" />
+    <End Role="Rams" Type="Self.Rams" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orders">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Rams">
+        <PropertyRef Name="Order" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="databaseEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Admin" EntityType="Self.Admin" />
+    <EntitySet Name="Deliveries" EntityType="Self.Deliveries" />
+    <EntitySet Name="Hard_disks" EntityType="Self.Hard_disks" />
+    <EntitySet Name="Komputers" EntityType="Self.Komputers" />
+    <EntitySet Name="Makers" EntityType="Self.Makers" />
+    <EntitySet Name="Motherboards" EntityType="Self.Motherboards" />
+    <EntitySet Name="Orders" EntityType="Self.Orders" />
+    <EntitySet Name="Processors" EntityType="Self.Processors" />
+    <EntitySet Name="Rams" EntityType="Self.Rams" />
+    <AssociationSet Name="FK_Hard_disks_Deliveries" Association="Self.FK_Hard_disks_Deliveries">
+      <End Role="Deliveries" EntitySet="Deliveries" />
+      <End Role="Hard_disks" EntitySet="Hard_disks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Komputers_Deliveries" Association="Self.FK_Komputers_Deliveries">
+      <End Role="Deliveries" EntitySet="Deliveries" />
+      <End Role="Komputers" EntitySet="Komputers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Motherboards_Deliveries" Association="Self.FK_Motherboards_Deliveries">
+      <End Role="Deliveries" EntitySet="Deliveries" />
+      <End Role="Motherboards" EntitySet="Motherboards" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Processors_Deliveries" Association="Self.FK_Processors_Deliveries">
+      <End Role="Deliveries" EntitySet="Deliveries" />
+      <End Role="Processors" EntitySet="Processors" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Rams_Deliveries" Association="Self.FK_Rams_Deliveries">
+      <End Role="Deliveries" EntitySet="Deliveries" />
+      <End Role="Rams" EntitySet="Rams" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Hard_disks_Makers" Association="Self.FK_Hard_disks_Makers">
+      <End Role="Makers" EntitySet="Makers" />
+      <End Role="Hard_disks" EntitySet="Hard_disks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Hard_disks_Orders" Association="Self.FK_Hard_disks_Orders">
+      <End Role="Orders" EntitySet="Orders" />
+      <End Role="Hard_disks" EntitySet="Hard_disks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Komputers_Hard_disks" Association="Self.FK_Komputers_Hard_disks">
+      <End Role="Hard_disks" EntitySet="Hard_disks" />
+      <End Role="Komputers" EntitySet="Komputers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Komputers_Motherboards" Association="Self.FK_Komputers_Motherboards">
+      <End Role="Motherboards" EntitySet="Motherboards" />
+      <End Role="Komputers" EntitySet="Komputers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Komputers_Orders" Association="Self.FK_Komputers_Orders">
+      <End Role="Orders" EntitySet="Orders" />
+      <End Role="Komputers" EntitySet="Komputers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Komputers_Processors" Association="Self.FK_Komputers_Processors">
+      <End Role="Processors" EntitySet="Processors" />
+      <End Role="Komputers" EntitySet="Komputers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Komputers_Rams" Association="Self.FK_Komputers_Rams">
+      <End Role="Rams" EntitySet="Rams" />
+      <End Role="Komputers" EntitySet="Komputers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Motherboards_Makers" Association="Self.FK_Motherboards_Makers">
+      <End Role="Makers" EntitySet="Makers" />
+      <End Role="Motherboards" EntitySet="Motherboards" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Processors_Makers" Association="Self.FK_Processors_Makers">
+      <End Role="Makers" EntitySet="Makers" />
+      <End Role="Processors" EntitySet="Processors" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Rams_Makers" Association="Self.FK_Rams_Makers">
+      <End Role="Makers" EntitySet="Makers" />
+      <End Role="Rams" EntitySet="Rams" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Motherboards_Orders" Association="Self.FK_Motherboards_Orders">
+      <End Role="Orders" EntitySet="Orders" />
+      <End Role="Motherboards" EntitySet="Motherboards" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Processors_Orders" Association="Self.FK_Processors_Orders">
+      <End Role="Orders" EntitySet="Orders" />
+      <End Role="Processors" EntitySet="Processors" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Rams_Orders" Association="Self.FK_Rams_Orders">
+      <End Role="Orders" EntitySet="Orders" />
+      <End Role="Rams" EntitySet="Rams" />
+    </AssociationSet>
+    <FunctionImport Name="Procedure" ReturnType="Collection(Int32)">
+      <Parameter Name="param1" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="Procedure1" ReturnType="Collection(databaseModel.Procedure1_Result)">
+      <Parameter Name="param2" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="NewAdmin" ReturnType="Collection(Int32)">
+      <Parameter Name="Login" Mode="In" Type="String" />
+      <Parameter Name="Password" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="CheckAcc" ReturnType="Collection(databaseModel.CheckAcc_Result)">
+      <Parameter Name="username" Mode="In" Type="String" />
+      <Parameter Name="password" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="Procedure1_Result">
+    <Property Type="Int32" Name="Id" Nullable="false" />
+    <Property Type="String" Name="Login" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="Password" Nullable="true" MaxLength="10" />
+  </ComplexType>
+  <ComplexType Name="CheckAcc_Result">
+    <Property Type="String" Name="Login" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="Password" Nullable="true" MaxLength="10" />
+  </ComplexType>
+</Schema>

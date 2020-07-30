@@ -1,0 +1,49 @@
+﻿<Window x:Class="App_10C.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:DVC="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+        xmlns:local="clr-namespace:App_10C"
+        Title="Лаба10С" Height="549.5" Width="782">
+
+    <Window.Resources>
+        <XmlDataProvider x:Key="currency"
+                         Source="http://www.cbr.ru/scripts/XML_daily.asp"
+                         XPath="ValCurs/Valute" />
+    </Window.Resources>
+
+    <DockPanel DataContext="{Binding Source={StaticResource currency}}">
+        <ListBox x:Name="list"
+                 FontFamily="Times New Roman"
+                 SelectedIndex="0"
+                 DockPanel.Dock="Left"
+                 ItemsSource="{Binding}"
+                 DisplayMemberPath="Name"
+                 Background="MistyRose"
+                 />
+        <Grid x:Name="grid">
+            <Grid.Resources>
+                <local:PointCollection x:Key="PointCollection" />
+            </Grid.Resources>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="107*"/>
+                <ColumnDefinition Width="132*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="174"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Calendar x:Name="calendar" SelectionMode="SingleRange"/>
+            <Button Grid.Column="1" Content="Вывести данные" Width="200" Height="20" Click="Button_Click"/>
+            <DVC:Chart Grid.Row="2" Grid.ColumnSpan="2" Name="mcChart">
+                <DVC:Chart.Series>
+                    <DVC:AreaSeries  
+                         Title="Динамика"  
+                         ItemsSource="{StaticResource PointCollection}"  
+                          IndependentValueBinding="{Binding Path=Date}"  
+                          DependentValueBinding="{Binding Path=Value}">
+                    </DVC:AreaSeries>
+                </DVC:Chart.Series>
+            </DVC:Chart>
+        </Grid>
+    </DockPanel>
+</Window>

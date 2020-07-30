@@ -1,0 +1,128 @@
+D:\ИСРПО\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+D:\ИСРПО\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+D:\ИСРПО\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+D:\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+D:\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+D:\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+D:\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+D:\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+D:\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+D:\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+D:\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+D:\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+D:\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+D:\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+H:\chemkaeva\ИСРПО\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+H:\chemkaeva\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+H:\chemkaeva\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+H:\chemkaeva\ИСРПО\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+H:\chemkaeva\ИСРПО\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+H:\chemkaeva\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+H:\chemkaeva\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+H:\chemkaeva\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+H:\chemkaeva\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+H:\chemkaeva\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+H:\chemkaeva\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+H:\chemkaeva\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+H:\chemkaeva\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+H:\chemkaeva\ИСРПО\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+C:\Users\429282-3\Desktop\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\429282-3\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\429282-3\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\429282-3\Desktop\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\429282-3\Desktop\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\429282-3\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+C:\Users\429282-3\Desktop\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\429282-3\Desktop\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\429282-3\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\429282-3\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\429282-3\Desktop\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\429282-3\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\429282-3\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\429282-3\Desktop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+C:\Users\429282-3\Desktop\9с\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\429282-3\Desktop\9с\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\429282-3\Desktop\9с\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\429282-3\Desktop\9с\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\429282-3\Desktop\9с\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\429282-3\Desktop\9с\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+C:\Users\429282-3\Desktop\9с\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\429282-3\Desktop\9с\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\429282-3\Desktop\9с\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\429282-3\Desktop\9с\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\429282-3\Desktop\9с\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\429282-3\Desktop\9с\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\429282-3\Desktop\9с\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\429282-3\Desktop\9с\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Рабочий стол\9с\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Рабочий стол\9с\WpfApplication4\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\Рабочий стол\9с\WpfApplication4\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\Рабочий стол\9с\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+\\vmware-host\Shared Folders\Рабочий стол\9с\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+\\vmware-host\Shared Folders\Рабочий стол\9с\WpfApplication4\obj\Debug\WpfApplication4.exe
+\\vmware-host\Shared Folders\Рабочий стол\9с\WpfApplication4\obj\Debug\WpfApplication4.pdb
+\\vmware-host\Shared Folders\Рабочий стол\9с\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+\\vmware-host\Shared Folders\Рабочий стол\9с\WpfApplication4\bin\Debug\WpfApplication4.exe
+\\vmware-host\Shared Folders\Рабочий стол\9с\WpfApplication4\bin\Debug\WpfApplication4.pdb
+\\vmware-host\Shared Folders\Рабочий стол\9с\WpfApplication4\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\Рабочий стол\9с\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+\\vmware-host\Shared Folders\Рабочий стол\9с\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+\\vmware-host\Shared Folders\Рабочий стол\9с\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Рабочий стол\9с\WpfApplication4\obj\Debug\WpfApplication4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\9с\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\User\Desktop\9с\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\User\Desktop\9с\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\User\Desktop\9с\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\User\Desktop\9с\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\User\Desktop\9с\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\9с\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\9с\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\User\Desktop\9с\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\User\Desktop\9с\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\User\Desktop\9с\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\9с\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\User\Desktop\9с\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\User\Desktop\9с\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+C:\Users\Kamila\Desktop\ИСРПО\9C\9C\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\Kamila\Desktop\ИСРПО\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\Kamila\Desktop\ИСРПО\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\Kamila\Desktop\ИСРПО\9C\9C\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\Kamila\Desktop\ИСРПО\9C\9C\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\Kamila\Desktop\ИСРПО\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Kamila\Desktop\ИСРПО\9C\9C\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\Kamila\Desktop\ИСРПО\9C\9C\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\Kamila\Desktop\ИСРПО\9C\9C\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\Kamila\Desktop\ИСРПО\9C\9C\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\Kamila\Desktop\ИСРПО\9C\9C\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\Kamila\Desktop\ИСРПО\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\Kamila\Desktop\ИСРПО\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\Kamila\Desktop\ИСРПО\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+C:\Users\koben\Desktop\9\9C\9C\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\koben\Desktop\9\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\koben\Desktop\9\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\koben\Desktop\9\9C\9C\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\koben\Desktop\9\9C\9C\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\koben\Desktop\9\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+C:\Users\koben\Desktop\9\9C\9C\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\koben\Desktop\9\9C\9C\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\koben\Desktop\9\9C\9C\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\koben\Desktop\9\9C\9C\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\koben\Desktop\9\9C\9C\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\koben\Desktop\9\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\koben\Desktop\9\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\koben\Desktop\9\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9C\9C\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9C\9C\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9C\9C\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.csprojAssemblyReference.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9C\9C\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9C\9C\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9C\9C\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9C\9C\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9C\9C\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\Koss4ok\Desktop\1\УПК\4 курс\ИСРПО\9C\9C\WpfApplication4\obj\Debug\WpfApplication4.pdb

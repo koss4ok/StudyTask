@@ -1,0 +1,28 @@
+﻿<Window x:Class="Tetris.Settings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tetris"
+        mc:Ignorable="d"
+        Title="Settings" Height="251.163" Width="484.302" KeyUp="Window_KeyUp" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.4,1" StartPoint="0.4,0">
+            <GradientStop Color="#FF001346" Offset="0"/>
+            <GradientStop Color="AliceBlue" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid Margin="0,0,0,0">
+        <Label Content="Поворот" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ускорение" HorizontalAlignment="Left" Margin="10,44,0,0" VerticalAlignment="Top"/>
+        <Label Content="Сдвиг вправо" HorizontalAlignment="Left" Margin="10,78.666,0,0" VerticalAlignment="Top"/>
+        <Label Content="Сдвиг влево" HorizontalAlignment="Left" Margin="10,112,0,0" VerticalAlignment="Top"/>
+        <Label Content="Сложность" HorizontalAlignment="Left" Margin="264.666,63.716,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btn1" Content="Normal" HorizontalAlignment="Left" Margin="336.878,66.716,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <TextBox x:Name="txt1" HorizontalAlignment="Left" Height="22" Margin="100,14,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="60"/>
+        <TextBox x:Name="txt2" HorizontalAlignment="Left" Height="22" Margin="100,48,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="60"/>
+        <TextBox x:Name="txt3" HorizontalAlignment="Left" Height="22" Margin="100,82.666,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="60"/>
+        <TextBox x:Name="txt4" HorizontalAlignment="Left" Height="22" Margin="100,116,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="60"/>
+
+    </Grid>
+</Window>
